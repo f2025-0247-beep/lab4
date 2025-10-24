@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Decorative header
+    cout << "=====================================\n";
+    cout << "\tSchool of Computer & IT (SCIT)\n";
+    cout << "=====================================\n\n";
+
+    // Printing information using escape sequences
+    cout << "Name:\t\tSHEIKH FAHAD FARAZ\n";
+    cout << "Department:\tMARKETING\n";
+    cout << "Quote:\t\t\"HONESTY IS THE BEST POLICY SOMETIMES IT ISNT.\"\n";
+
+    // Decorative footer
+    cout << "\n=====================================\n";
+
+    return 0;
+}
